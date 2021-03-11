@@ -1,0 +1,45 @@
+<annotation>
+  <folder></folder>
+  <filename>baston (120).jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>520</width>
+    <height>350</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>baston_v</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>37.24</xmin>
+      <ymin>27.7</ymin>
+      <xmax>115.1</xmax>
+      <ymax>65.68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baston_v</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>446.14</xmin>
+      <ymin>306.62</ymin>
+      <xmax>497.59</xmax>
+      <ymax>347.3</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baston_e</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>50.58</xmin>
+      <ymin>51.52</ymin>
+      <xmax>453.0</xmax>
+      <ymax>341.64</ymax>
+    </bndbox>
+  </object>
+</annotation>
